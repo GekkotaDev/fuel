@@ -1,0 +1,15 @@
+name: fuel
+description: A minimal, simple, and small dependency injection library for Dart and Flutter apps.
+version: 1.0.0
+repository: https://github.com/gekkotadev/fuel
+
+environment:
+  sdk: ^3.0.0
+
+# Add regular dependencies here.
+# dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
